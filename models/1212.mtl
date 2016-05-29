@@ -1,0 +1,24 @@
+newmtl Box02SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.11 0.10 0.25
+Tf 1.00 1.00 1.00
+map_Kd -o -10.35 -11.650001 -s 0.0460829 0.0411523 PION78.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Box53SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd fabric.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl initialShadingGroup
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.08 0.08 0.08
+Tf 1.00 1.00 1.00
+Ni 1.00
